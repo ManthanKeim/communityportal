@@ -11,6 +11,7 @@ We welcome new ideas for the portal. Although the platform must include the foll
 * A page for branding guidelines and community code of conduct.
 * Prompting all leader profiles for submitting bimonthly reports.
 * A list of all upcoming and past events and a button to RSVP for upcoming events and writing feedbacks for event attended.
+* Resources and sharable data after event which student can make use of. For eg. PPTs and code blocks which speaker used in there talks, email ids etc. 
 * A leaderboard to see which leader has made the most contributions and can be promoted to higher role of responsibility.</br></br>
 
 #### All ideas on tech stack are welcome. Also, we are accepting applications for the role of project moderator.</br>
